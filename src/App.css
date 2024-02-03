@@ -1,0 +1,11 @@
+.container {
+    flex-direction: column;
+    display: flex;
+    min-width: 650px;
+    flex-wrap: wrap;
+    /* gap: 30px; */
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+
+}
