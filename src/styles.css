@@ -54,7 +54,7 @@ body {
   background: hsl(0deg 0% 100%);
   border-radius: 0.25em;
   padding: 0.25em 0.5em;
-  color: hsl(0, 0%, 100%);
+  color: hsl(0, 0%, 0%);
 }
 
 .new-item-form input:focus {
